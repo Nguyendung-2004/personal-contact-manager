@@ -51,15 +51,3 @@ cd frontend
 npm install
 npm run dev
 ```
-
-## Yêu cầu sửa trước khi nộp
-Vào file `frontend/src/pages/About.jsx` để thay:
-- MSSV
-- Lớp
-
-## Gợi ý commit
-- init project structure
-- add backend health check and mongodb connection
-- create contact crud apis
-- build contact management frontend
-- add dockerfiles and docker compose
